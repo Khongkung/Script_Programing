@@ -10,7 +10,7 @@
 | **Name**       | **Pongsakorn Manadee (พงษกร มานาดี)** |
 | **Year**       | 4                                     |
 | **Faculty**    | College of Computing                  |
-| **Major**      | Artificial Intelligence               |
+| **Major**      | Artificial Intelligence(AI)               |
 | **Student ID** | **663380282-7**                       |
 
 ---
